@@ -9,3 +9,6 @@ print(sub(a,b))
 def mul(x,y):
     return a*b
 print(mul(a,b))
+def divide(x,y):
+    return a/b
+print(divide(a,b))
