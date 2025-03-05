@@ -1,5 +1,5 @@
 a=10
-b=20
+b=2
 def add(x,y):
     return a+b
 print(add(a,b))
@@ -12,3 +12,6 @@ print(mul(a,b))
 def divide(x,y):
     return a/b
 print(divide(a,b))
+def expo(x,y):
+    return a**b
+print(expo(a,b))
