@@ -1,3 +1,4 @@
 Practising rebase interactives.
 Operations included are Edit , SPlit,Squash,Drop etc.
 It also includes reword command.
+This is the last commit.
