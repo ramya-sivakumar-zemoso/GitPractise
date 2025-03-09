@@ -1,2 +1,3 @@
+Line 1: Color of the button is blue.
 Line 3: Color of the button is black(edited master).
-Line 2: Color of the button is red.
+
