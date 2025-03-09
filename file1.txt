@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Line 1:Line by master.
-Line 1:Line by master(edited).
+=======
+Line 2:Line by merge-con.
+>>>>>>> merge-con
