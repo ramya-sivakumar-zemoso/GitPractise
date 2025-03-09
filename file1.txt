@@ -1,1 +1,2 @@
 Line 1:Line by master.
+Line 1:Line by master(edited).
